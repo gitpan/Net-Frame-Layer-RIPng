@@ -4,7 +4,7 @@
 package Net::Frame::Layer::RIPng;
 use strict; use warnings;
 
-our $VERSION = '1.00';
+our $VERSION = '1.01';
 
 use Net::Frame::Layer qw(:consts :subs);
 use Exporter;
